@@ -18,11 +18,11 @@ cp .env.example .env  # Luego edita el .env con tus claves API si lo deseas
 
     Node.js 18+
 
-    API Key de GitHub (opcional)
+    API Key de GitHub 
 
-    API Key de AbuseIPDB (opcional)
+    API Key de AbuseIPDB 
 
-    API Key de Shodan (opcional)
+    API Key de Shodan 
 
     Servidor ShadowWatch (app.js) corriendo en localhost:4000
 
@@ -89,7 +89,7 @@ ShadowWatch/
 ├── controllers/          # Lógica por tipo
 ├── services/osint/       # Conexión con fuentes OSINT
 ├── exports/              # Archivos generados por el usuario
-├── .env                  # Tus claves (no se sube)
+├── .env                  # Tus claves (
 ├── .env.example          # Ejemplo de configuración
 ├── package.json
 └── README.md
@@ -106,5 +106,8 @@ Exportar a CSV
 
 🧑‍💻 Autor
 
-Desarrollado por Emir-MD
+Desarrollado
+
+- Zoe Alexis Cardenas Hernandez
+- Aldo Emir Morante Delgado
 💻 Hecho para investigadores, Red Team y entornos educativos.
