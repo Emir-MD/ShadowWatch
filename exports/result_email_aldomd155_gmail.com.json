@@ -1,0 +1,15 @@
+{
+  "email": "aldomd155@gmail.com",
+  "data": [
+    {
+      "source": "Google Dorks",
+      "url": "https://www.google.com/search?q=intext:aldomd155@gmail.com+site:pastebin.com",
+      "note": "Busca posibles leaks en Pastebin con ese correo"
+    },
+    {
+      "source": "crt.sh",
+      "url": "https://crt.sh/?q=%25gmail.com%25",
+      "note": "Busca certificados SSL con ese dominio"
+    }
+  ]
+}
